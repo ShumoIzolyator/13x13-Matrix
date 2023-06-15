@@ -10,4 +10,4 @@
 4) Перейти на  http://localhost:5173/;
 
 #Стэк
-Javascript, Typescript, ReactJS, Vite.
+Javascript, Typescript, ReactJS, Vite, HTML5, CSS4.
